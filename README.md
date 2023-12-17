@@ -1,3 +1,4 @@
+![circuit](https://github.com/ritulsh29/Home-automation-using-telegram/assets/119431912/83f73679-5226-4de2-ad2e-6708d064dffb)
 # Home-automation-using-telegram
 
 Home Automation using Telegram: Description and Methodology
